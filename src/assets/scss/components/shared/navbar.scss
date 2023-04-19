@@ -33,7 +33,7 @@
   }
 
   &--link {
-    margin: 0 15px;
+    margin: 0px 15px;
     font-size: 0.9em;
   }
 
@@ -107,6 +107,7 @@
   background: $lighter;
   border: 0.3125rem solid transparent;
   font-size: 0.875rem;
+  margin-right: 50px;
 
   &:hover {
     cursor: pointer;
